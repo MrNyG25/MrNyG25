@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h2>Aspiring Software Engineer</h2>
+  <h2>:wave: Hi! My name is Yesid</h2>
   <p>
    🚀 I'm a <strong>Full stack web developer</strong> 3 years of experience, I like to learn new tecnologies
   </p>
