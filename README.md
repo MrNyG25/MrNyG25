@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**MrNyG25/MrNyG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>Aspiring Software Engineer</h2>
+  <p>
+   🚀 I'm a <strong>Full stack web developer</strong> 3 years of experience, I like to learn new tecnologies
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/neider-yesid-garc%C3%ADa-8232b51ab/">
+    <img alt="Likedin" title="Follow on Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,angular,vuejs,symfony,nestjs,react,jest,postgresql,ts" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,vscode,figma,git" />
+</div>
+
