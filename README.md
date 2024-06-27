@@ -1,9 +1,9 @@
 
 
 <div align="center">
-  <h2>:wave: Full Stack Web Developer with 3 years of experience</h2>
+  <h2>🚀 Full Stack Web Developer with 3 years of experience</h2>
   <p>
-   🚀 Hi! My name is Yesid, my expertise spans across a range of technologies, In addition to my main stack, I also create Python scripts to automate processes, I enjoy learning new technologies and continuously improving my skills to solve problems efficiently
+   :wave: Hi! My name is Yesid, my expertise spans across a range of technologies, In addition to my main stack, I also create Python scripts to automate processes, I enjoy learning new technologies and continuously improving my skills to solve problems efficiently
   </p>
 </div>
 
